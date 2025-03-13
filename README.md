@@ -28,8 +28,8 @@
 
       ## run the code
 
-      ```bash
-          go run goroutine.go
-      ```
+   ```bash
+       go run goroutine.go
+   ```
 
       
